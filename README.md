@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **revantkumarp@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1nZML3_JOn4ALtrUEvHannMRvGDKad8oX/view?usp=sharing)
-
 - ⚡ Fun fact **Learning to pass test cases for a living**
 
 <h3 align="left">Connect with me:</h3>
