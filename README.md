@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=revant-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="revant-kumar" /> </p>
 
-- 🔭 I’m currently working on **Football Result Prediction**
+- 🔭 Currently working on **MERN** projects
 
 - 📫 How to reach me **revantkumarp@gmail.com**
 
